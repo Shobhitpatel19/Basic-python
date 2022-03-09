@@ -1,0 +1,5 @@
+You can install matplotlib with pip or conda at your command line or terminal
+
+conda install matplotlib
+or
+pip install matplotlib
